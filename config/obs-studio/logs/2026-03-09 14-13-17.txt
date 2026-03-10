@@ -1,0 +1,237 @@
+14:13:17.243: Platform: Wayland
+14:13:17.243: CPU Name: AMD Athlon Silver 3050U with Radeon Graphics
+14:13:17.243: CPU Speed: 3184.253MHz
+14:13:17.243: Physical Cores: 2, Logical Cores: 2
+14:13:17.243: Physical Memory: 6841MB Total, 2671MB Free
+14:13:17.243: Kernel Version: Linux 6.19.6-1-cachyos-bmq-lto
+14:13:17.243: Distribution: "Arch Linux" Unknown
+14:13:17.243: Desktop Environment: Hyprland
+14:13:17.244: Session Type: wayland
+14:13:17.245: Current Date/Time: 2026-03-09, 14:13:17
+14:13:17.245: Browser Hardware Acceleration: true
+14:13:17.245: Qt Version: 6.10.2 (runtime), 6.10.1 (compiled)
+14:13:17.245: Portable mode: false
+14:13:17.305: OBS 32.0.4 (linux)
+14:13:17.305: ---------------------------------
+14:13:17.306: ---------------------------------
+14:13:17.306: audio settings reset:
+14:13:17.306: 	samples per sec: 48000
+14:13:17.306: 	speakers:        2
+14:13:17.306: 	max buffering:   960 milliseconds
+14:13:17.306: 	buffering type:  dynamically increasing
+14:13:17.309: ---------------------------------
+14:13:17.309: Initializing OpenGL...
+14:13:17.309: Using EGL/Wayland
+14:13:17.359: Initialized EGL 1.5
+14:13:17.389: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, raven2, ACO, DRM 3.64, 6.19.6-1-cachyos-bmq-lto)
+14:13:17.389: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.0.1-arch2.3, shading language 4.60
+14:13:17.430: ---------------------------------
+14:13:17.430: video settings reset:
+14:13:17.430: 	base resolution:   1920x1080
+14:13:17.430: 	output resolution: 1920x1080
+14:13:17.430: 	downscale filter:  Bicubic
+14:13:17.430: 	fps:               30/1
+14:13:17.430: 	format:            NV12
+14:13:17.430: 	YUV mode:          Rec. 709/Partial
+14:13:17.430: NV12 texture support enabled
+14:13:17.430: P010 texture support not available
+14:13:17.435: Audio monitoring device:
+14:13:17.435: 	name: По умолчанию
+14:13:17.435: 	id: default
+14:13:17.436: ---------------------------------
+14:13:17.438: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:13:17.440: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:13:17.442: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:13:17.442: Failed to initialize module 'decklink.so'
+14:13:17.631: [pipewire] Available capture sources:
+14:13:17.631: [pipewire]     - Monitor source
+14:13:17.631: [pipewire]     - Window source
+14:13:17.701: VAAPI: API version 1.22
+14:13:17.705: FFmpeg VAAPI H264 encoding supported
+14:13:17.717: FFmpeg VAAPI AV1 encoding not supported
+14:13:17.727: FFmpeg VAAPI HEVC encoding supported
+14:13:17.741: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: невозможно открыть разделяемый объектный файл: Нет такого файла или каталога
+14:13:17.741: 
+14:13:17.741: NVENC not supported
+14:13:17.741: Failed to initialize module 'obs-nvenc.so'
+14:13:17.808: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+14:13:17.808: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.2
+14:13:17.808: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+14:13:17.817: [obs-websocket] [obs_module_load] Module loaded.
+14:13:17.823: ---------------------------------
+14:13:17.823:   Loaded Modules:
+14:13:17.823:     text-freetype2.so
+14:13:17.823:     rtmp-services.so
+14:13:17.823:     obs-x264.so
+14:13:17.823:     obs-websocket.so
+14:13:17.823:     obs-webrtc.so
+14:13:17.823:     obs-vst.so
+14:13:17.823:     obs-transitions.so
+14:13:17.823:     obs-qsv11.so
+14:13:17.823:     obs-outputs.so
+14:13:17.823:     obs-libfdk.so
+14:13:17.823:     obs-filters.so
+14:13:17.823:     obs-ffmpeg.so
+14:13:17.823:     linux-v4l2.so
+14:13:17.823:     linux-pulseaudio.so
+14:13:17.823:     linux-pipewire.so
+14:13:17.823:     linux-jack.so
+14:13:17.823:     linux-capture.so
+14:13:17.823:     linux-alsa.so
+14:13:17.823:     image-source.so
+14:13:17.823:     frontend-tools.so
+14:13:17.823:     decklink-output-ui.so
+14:13:17.823:     decklink-captions.so
+14:13:17.823: ---------------------------------
+14:13:17.824: ---------------------------------
+14:13:17.824: Available Encoders:
+14:13:17.824:   Video Encoders:
+14:13:17.824: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:13:17.824: 	- ffmpeg_aom_av1 (AOM AV1)
+14:13:17.824: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+14:13:17.824: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+14:13:17.824: 	- obs_x264 (x264)
+14:13:17.824:   Audio Encoders:
+14:13:17.824: 	- ffmpeg_aac (FFmpeg AAC)
+14:13:17.824: 	- ffmpeg_opus (FFmpeg Opus)
+14:13:17.824: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 бит))
+14:13:17.824: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 бита))
+14:13:17.824: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 бита с пл. тчк.))
+14:13:17.824: 	- ffmpeg_alac (FFmpeg ALAC (24 бита))
+14:13:17.824: 	- ffmpeg_flac (FFmpeg FLAC (16 бит))
+14:13:17.824: 	- libfdk_aac (libfdk AAC)
+14:13:17.824: ==== Startup complete ===============================================
+14:13:17.884: All scene data cleared
+14:13:17.885: ------------------------------------------------
+14:13:17.890: Device for 'Audio Output Capture' source Звук раб. стола is also used for audio monitoring.
+14:13:17.890: Deduplication logic is being applied to all monitored sources.
+14:13:17.890: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.0) 15.0.0'
+14:13:17.890: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+14:13:17.890: pulse-input: Started recording from 'auto_null.monitor' (default)
+14:13:17.890: [Loaded global audio device]: 'Звук раб. стола'
+14:13:17.890: PipeWire initialized
+14:13:17.892: Switched to scene 'Сцена'
+14:13:17.892: ------------------------------------------------
+14:13:17.892: Loaded scenes:
+14:13:17.892: - scene 'Сцена':
+14:13:17.892:     - source: 'Захват экрана (PipeWire)' (pipewire-screen-capture-source)
+14:13:17.892: ------------------------------------------------
+14:13:17.908: Device for 'Audio Output Capture' source Звук раб. стола is also used for audio monitoring.
+14:13:17.908: Deduplication logic is being applied to all monitored sources.
+14:13:17.931: [pipewire] Screencast session created
+14:13:18.438: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Звук раб. стола)
+14:13:18.438: 
+14:13:20.946: [pipewire] Asking for monitor and window
+14:13:20.955: [pipewire] source selected, setting up screencast
+14:13:20.965: [pipewire] Server version: 1.6.0
+14:13:20.965: [pipewire] Library version: 1.6.0
+14:13:20.965: [pipewire] Header version: 1.4.9
+14:13:20.966: [pipewire] Created stream 0x55a8ae53a210
+14:13:20.966: [pipewire] Stream 0x55a8ae53a210 state: "connecting" (error: none)
+14:13:20.966: [pipewire] Playing stream 0x55a8ae53a210
+14:13:20.966: [pipewire] Stream 0x55a8ae53a210 state: "paused" (error: none)
+14:13:20.975: [pipewire] Negotiated format:
+14:13:20.975: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:20.975: [pipewire]     Modifier: 0x0
+14:13:20.975: [pipewire]     Size: 1920x1080
+14:13:20.975: [pipewire]     Framerate: 0/1
+14:13:20.978: [pipewire] Negotiated format:
+14:13:20.978: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:20.978: [pipewire]     Modifier: 0x20000024331ba01
+14:13:20.978: [pipewire]     Size: 1920x1080
+14:13:20.978: [pipewire]     Framerate: 0/1
+14:13:20.979: [pipewire] Stream 0x55a8ae53a210 state: "streaming" (error: none)
+14:13:21.029: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+14:13:21.029: [pipewire] Renegotiating stream
+14:13:21.030: [pipewire] Stream 0x55a8ae53a210 state: "paused" (error: none)
+14:13:21.030: [pipewire] Negotiated format:
+14:13:21.030: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.030: [pipewire]     Modifier: 0x20000024331ba01
+14:13:21.030: [pipewire]     Size: 1920x1080
+14:13:21.030: [pipewire]     Framerate: 0/1
+14:13:21.031: [pipewire] Negotiated format:
+14:13:21.031: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.031: [pipewire]     Modifier: 0x20000024331b901
+14:13:21.031: [pipewire]     Size: 1920x1080
+14:13:21.031: [pipewire]     Framerate: 0/1
+14:13:21.033: [pipewire] Stream 0x55a8ae53a210 state: "streaming" (error: none)
+14:13:21.059: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+14:13:21.059: [pipewire] Renegotiating stream
+14:13:21.060: [pipewire] Stream 0x55a8ae53a210 state: "paused" (error: none)
+14:13:21.060: [pipewire] Negotiated format:
+14:13:21.060: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.060: [pipewire]     Modifier: 0x20000024331b901
+14:13:21.060: [pipewire]     Size: 1920x1080
+14:13:21.060: [pipewire]     Framerate: 0/1
+14:13:21.060: [pipewire] Negotiated format:
+14:13:21.060: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.060: [pipewire]     Modifier: 0x200000003313901
+14:13:21.060: [pipewire]     Size: 1920x1080
+14:13:21.060: [pipewire]     Framerate: 0/1
+14:13:21.062: [pipewire] Stream 0x55a8ae53a210 state: "streaming" (error: none)
+14:13:21.089: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+14:13:21.089: [pipewire] Renegotiating stream
+14:13:21.089: [pipewire] Stream 0x55a8ae53a210 state: "paused" (error: none)
+14:13:21.089: [pipewire] Negotiated format:
+14:13:21.089: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.089: [pipewire]     Modifier: 0x200000003313901
+14:13:21.089: [pipewire]     Size: 1920x1080
+14:13:21.089: [pipewire]     Framerate: 0/1
+14:13:21.090: [pipewire] Negotiated format:
+14:13:21.090: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.090: [pipewire]     Modifier: 0x20000024331b601
+14:13:21.090: [pipewire]     Size: 1920x1080
+14:13:21.090: [pipewire]     Framerate: 0/1
+14:13:21.092: [pipewire] Stream 0x55a8ae53a210 state: "streaming" (error: none)
+14:13:21.119: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+14:13:21.119: [pipewire] Renegotiating stream
+14:13:21.120: [pipewire] Stream 0x55a8ae53a210 state: "paused" (error: none)
+14:13:21.120: [pipewire] Negotiated format:
+14:13:21.120: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.120: [pipewire]     Modifier: 0x20000024331b601
+14:13:21.120: [pipewire]     Size: 1920x1080
+14:13:21.120: [pipewire]     Framerate: 0/1
+14:13:21.120: [pipewire] Negotiated format:
+14:13:21.120: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:13:21.121: [pipewire]     Modifier: 0x200000003201a01
+14:13:21.121: [pipewire]     Size: 1920x1080
+14:13:21.121: [pipewire]     Framerate: 0/1
+14:13:21.122: [pipewire] Stream 0x55a8ae53a210 state: "streaming" (error: none)
+14:13:28.738: ---------------------------------
+14:13:28.738: [x264 encoder: 'simple_video_recording'] preset: veryfast
+14:13:28.738: [x264 encoder: 'simple_video_recording'] profile: high
+14:13:28.738: [x264 encoder: 'simple_video_recording'] settings:
+14:13:28.738: 	rate_control: CRF
+14:13:28.738: 	bitrate:      0
+14:13:28.738: 	buffer size:  0
+14:13:28.738: 	crf:          23
+14:13:28.738: 	fps_num:      30
+14:13:28.738: 	fps_den:      1
+14:13:28.738: 	width:        1920
+14:13:28.738: 	height:       1080
+14:13:28.738: 	keyint:       250
+14:13:28.738: 
+14:13:28.742: libfdk_aac encoder created
+14:13:28.742: libfdk_aac bitrate: 192, channels: 2
+14:13:28.746: ==== Recording Start ===============================================
+14:13:28.746: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/killooo/2026-03-09 14-13-28.mp4'...
+14:15:13.270: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+14:15:13.270: [mp4 muxer: 'simple_file_output'] Number of fragments: 14
+14:15:13.271: [mp4 muxer: 'simple_file_output'] Full moov size: 56 KiB
+14:15:13.271: [mp4 muxer: 'simple_file_output'] Final mdat size: 4636 KiB
+14:15:13.271: Output 'simple_file_output': stopping
+14:15:13.271: Output 'simple_file_output': Total frames output: 3118
+14:15:13.271: Output 'simple_file_output': Total drawn frames: 3136
+14:15:13.271: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+14:15:13.272: ==== Recording Stop ================================================
+14:15:13.273: [mp4 output: 'simple_file_output'] File output complete. Finalization took 2 ms.
+14:15:13.289: libfdk_aac encoder destroyed
+14:25:33.935: ==== Shutting down ==================================================
+14:25:33.939: pulse-input: Stopped recording from 'auto_null.monitor'
+14:25:33.939: pulse-input: Got 29441 packets with 35329200 frames
+14:25:33.939: Deduplication logic stopped.
+14:25:33.940: [pipewire] Stream 0x55a8ae53a210 state: "paused" (error: none)
+14:25:33.940: [pipewire] Stream 0x55a8ae53a210 state: "unconnected" (error: none)
+14:25:33.970: All scene data cleared
+14:25:33.970: ------------------------------------------------
+14:25:33.970: The Wayland connection broke. Did the Wayland compositor die?
